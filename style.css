@@ -5,3 +5,7 @@ p {
 header {
   color: rgb(0, 255, 26);
 }
+image {
+  width: 100px;
+  border: 2px solid red;
+}
